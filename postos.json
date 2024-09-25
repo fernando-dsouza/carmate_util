@@ -1,0 +1,402 @@
+[
+    {
+        "ID": 1,
+        "NOME": "Shell"
+    },
+    {
+        "ID": 2,
+        "NOME": "Ipiranga"
+    },
+    {
+        "ID": 3,
+        "NOME": "BR Petrobras"
+    },
+    {
+        "ID": 4,
+        "NOME": "Ale"
+    },
+    {
+        "ID": 5,
+        "NOME": "Texaco"
+    },
+    {
+        "ID": 6,
+        "NOME": "Esso"
+    },
+    {
+        "ID": 7,
+        "NOME": "Mobil"
+    },
+    {
+        "ID": 8,
+        "NOME": "Carrefour"
+    },
+    {
+        "ID": 9,
+        "NOME": "Ativa"
+    },
+    {
+        "ID": 10,
+        "NOME": "Big"
+    },
+    {
+        "ID": 11,
+        "NOME": "Charrua"
+    },
+    {
+        "ID": 12,
+        "NOME": "Elso"
+    },
+    {
+        "ID": 13,
+        "NOME": "FIC"
+    },
+    {
+        "ID": 14,
+        "NOME": "Gasol"
+    },
+    {
+        "ID": 15,
+        "NOME": "Petromega"
+    },
+    {
+        "ID": 16,
+        "NOME": "Petrosul"
+    },
+    {
+        "ID": 17,
+        "NOME": "Petrox"
+    },
+    {
+        "ID": 18,
+        "NOME": "Sabba"
+    },
+    {
+        "ID": 19,
+        "NOME": "Saudibras"
+    },
+    {
+        "ID": 20,
+        "NOME": "Setta"
+    },
+    {
+        "ID": 21,
+        "NOME": "SIM"
+    },
+    {
+        "ID": 22,
+        "NOME": "Stock"
+    },
+    {
+        "ID": 23,
+        "NOME": "Petrobahia"
+    },
+    {
+        "ID": 24,
+        "NOME": "Paris Petróleo"
+    },
+    {
+        "ID": 25,
+        "NOME": "Pleno Postos"
+    },
+    {
+        "ID": 26,
+        "NOME": "Confiável"
+    },
+    {
+        "ID": 27,
+        "NOME": "Rede Duque"
+    },
+    {
+        "ID": 28,
+        "NOME": "Rede Vitória"
+    },
+    {
+        "ID": 29,
+        "NOME": "Locatelli"
+    },
+    {
+        "ID": 30,
+        "NOME": "Rede Forza"
+    },
+    {
+        "ID": 31,
+        "NOME": "RodoRede"
+    },
+    {
+        "ID": 32,
+        "NOME": "Rede Futurama"
+    },
+    {
+        "ID": 33,
+        "NOME": "Rede Mega"
+    },
+    {
+        "ID": 34,
+        "NOME": "Rede Simarelli"
+    },
+    {
+        "ID": 35,
+        "NOME": "RodOil"
+    },
+    {
+        "ID": 36,
+        "NOME": "Estrela"
+    },
+    {
+        "ID": 37,
+        "NOME": "Extra"
+    },
+    {
+        "ID": 38,
+        "NOME": "EcoPosto"
+    },
+    {
+        "ID": 39,
+        "NOME": "Agip"
+    },
+    {
+        "ID": 40,
+        "NOME": "Petronac"
+    },
+    {
+        "ID": 41,
+        "NOME": "Posto Dom Pedro"
+    },
+    {
+        "ID": 42,
+        "NOME": "Mazoil"
+    },
+    {
+        "ID": 43,
+        "NOME": "Posto Saúde"
+    },
+    {
+        "ID": 44,
+        "NOME": "Servcar"
+    },
+    {
+        "ID": 45,
+        "NOME": "Santa Helena"
+    },
+    {
+        "ID": 46,
+        "NOME": "Mônaco"
+    },
+    {
+        "ID": 47,
+        "NOME": "Super Gas"
+    },
+    {
+        "ID": 48,
+        "NOME": "Brasilul"
+    },
+    {
+        "ID": 49,
+        "NOME": "Posto Avenida"
+    },
+    {
+        "ID": 50,
+        "NOME": "Rede São Roque"
+    },
+    {
+        "ID": 51,
+        "NOME": "Posto Galo"
+    },
+    {
+        "ID": 52,
+        "NOME": "Rede Joia"
+    },
+    {
+        "ID": 53,
+        "NOME": "Posto Planalto"
+    },
+    {
+        "ID": 54,
+        "NOME": "Rede VIP"
+    },
+    {
+        "ID": 55,
+        "NOME": "King Oil"
+    },
+    {
+        "ID": 56,
+        "NOME": "Supremo"
+    },
+    {
+        "ID": 57,
+        "NOME": "Rede 100"
+    },
+    {
+        "ID": 58,
+        "NOME": "Rede Máxima"
+    },
+    {
+        "ID": 59,
+        "NOME": "Gasotango"
+    },
+    {
+        "ID": 60,
+        "NOME": "Rede Sideral"
+    },
+    {
+        "ID": 61,
+        "NOME": "Rede Grassi"
+    },
+    {
+        "ID": 62,
+        "NOME": "Royal"
+    },
+    {
+        "ID": 63,
+        "NOME": "Redesul"
+    },
+    {
+        "ID": 64,
+        "NOME": "Zema"
+    },
+    {
+        "ID": 65,
+        "NOME": "Pioneiro"
+    },
+    {
+        "ID": 66,
+        "NOME": "Bandeira Branca"
+    },
+    {
+        "ID": 67,
+        "NOME": "Postos Trevo"
+    },
+    {
+        "ID": 68,
+        "NOME": "Postos Paloma"
+    },
+    {
+        "ID": 69,
+        "NOME": "Rede Cidade"
+    },
+    {
+        "ID": 70,
+        "NOME": "Postos Mercúrio"
+    },
+    {
+        "ID": 71,
+        "NOME": "Rede Canadá"
+    },
+    {
+        "ID": 72,
+        "NOME": "Rede Mandala"
+    },
+    {
+        "ID": 73,
+        "NOME": "Rede Pegoraro"
+    },
+    {
+        "ID": 74,
+        "NOME": "Rede Divisão"
+    },
+    {
+        "ID": 75,
+        "NOME": "Petroil"
+    },
+    {
+        "ID": 76,
+        "NOME": "Roda Viva"
+    },
+    {
+        "ID": 77,
+        "NOME": "Rede Camelo"
+    },
+    {
+        "ID": 78,
+        "NOME": "Rede Pereira"
+    },
+    {
+        "ID": 79,
+        "NOME": "Rede Mineira"
+    },
+    {
+        "ID": 80,
+        "NOME": "Rede Cachoeirinha"
+    },
+    {
+        "ID": 81,
+        "NOME": "Rede Monte Carlo"
+    },
+    {
+        "ID": 82,
+        "NOME": "Rede Esperança"
+    },
+    {
+        "ID": 83,
+        "NOME": "Rede Diamante"
+    },
+    {
+        "ID": 84,
+        "NOME": "Postos Solar"
+    },
+    {
+        "ID": 85,
+        "NOME": "Rede Nova Esperança"
+    },
+    {
+        "ID": 86,
+        "NOME": "Lins"
+    },
+    {
+        "ID": 87,
+        "NOME": "Sorriso"
+    },
+    {
+        "ID": 88,
+        "NOME": "Rede Dallas"
+    },
+    {
+        "ID": 89,
+        "NOME": "Rede JF"
+    },
+    {
+        "ID": 90,
+        "NOME": "Rede Silva"
+    },
+    {
+        "ID": 91,
+        "NOME": "Rede Interlagos"
+    },
+    {
+        "ID": 92,
+        "NOME": "Rede Vitrine"
+    },
+    {
+        "ID": 93,
+        "NOME": "Rede São Luiz"
+    },
+    {
+        "ID": 94,
+        "NOME": "Rede Isaías"
+    },
+    {
+        "ID": 95,
+        "NOME": "Postos Tropical"
+    },
+    {
+        "ID": 96,
+        "NOME": "Rede Golfinho"
+    },
+    {
+        "ID": 97,
+        "NOME": "Postos Tropicana"
+    },
+    {
+        "ID": 98,
+        "NOME": "Rede Big Ben"
+    },
+    {
+        "ID": 99,
+        "NOME": "Rede Graal"
+    },
+    {
+        "ID": 100,
+        "NOME": "Rede São Jorge"
+    }
+]
